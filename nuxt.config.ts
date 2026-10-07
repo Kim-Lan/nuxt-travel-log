@@ -8,4 +8,13 @@ export default defineNuxtConfig({
       standalone: false,
     },
   },
+  nitro: {
+    preset: 'cloudflare',
+
+    cloudflare: {
+      wrangler: {
+        previews: {},
+      },
+    },
+  },
 });
