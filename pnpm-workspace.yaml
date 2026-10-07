@@ -1,0 +1,10 @@
+minimumReleaseAge: 10080
+minimumReleaseAgeExcludePrune: true
+trustPolicy: no-downgrade
+trustPolicyIgnoreAfter: 10080
+shellEmulator: true
+packages: []
+
+allowBuilds:
+  esbuild: false
+  unrs-resolver: false
