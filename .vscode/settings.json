@@ -4,10 +4,10 @@
   "editor.formatOnSave": false,
 
   // Auto fix
-  "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit",
-    "source.organizeImports": "never"
-  },
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll": "explicit",
+  //   "source.organizeImports": "never"
+  // },
 
   "files.associations": {
     "*.css": "tailwindcss"
