@@ -26,7 +26,8 @@
     "eslint-plugin-format": "^2.0.1",
     "husky": "^9.1.7",
     "lint-staged": "^17.6.0",
-    "typescript": "npm:@typescript/typescript6"
+    "typescript": "npm:@typescript/typescript6",
+    "wrangler": "^4.144.0"
   },
   "lint-staged": {
     "*": "pnpm lint"
