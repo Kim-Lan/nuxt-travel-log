@@ -3,6 +3,7 @@ minimumReleaseAgeExcludePrune: true
 trustPolicy: no-downgrade
 trustPolicyIgnoreAfter: 10080
 shellEmulator: true
+packages: []
 
 allowBuilds:
   esbuild: false
