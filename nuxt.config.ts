@@ -9,8 +9,6 @@ export default defineNuxtConfig({
     },
   },
   nitro: {
-    preset: 'cloudflare',
-
     cloudflare: {
       wrangler: {
         previews: {},
